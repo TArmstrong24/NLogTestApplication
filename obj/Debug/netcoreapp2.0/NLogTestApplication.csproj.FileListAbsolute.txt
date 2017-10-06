@@ -1,0 +1,11 @@
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\bin\Debug\netcoreapp2.0\NLogTestApplication.deps.json
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\bin\Debug\netcoreapp2.0\NLogTestApplication.runtimeconfig.json
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\bin\Debug\netcoreapp2.0\NLogTestApplication.runtimeconfig.dev.json
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\bin\Debug\netcoreapp2.0\NLogTestApplication.dll
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\bin\Debug\netcoreapp2.0\NLogTestApplication.pdb
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\obj\Debug\netcoreapp2.0\NLogTestApplication.csprojResolveAssemblyReference.cache
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\obj\Debug\netcoreapp2.0\NLogTestApplication.csproj.CoreCompileInputs.cache
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\obj\Debug\netcoreapp2.0\NLogTestApplication.AssemblyInfoInputs.cache
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\obj\Debug\netcoreapp2.0\NLogTestApplication.AssemblyInfo.cs
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\obj\Debug\netcoreapp2.0\NLogTestApplication.dll
+c:\users\armstrongt\documents\visual studio 2017\Projects\NLogTestApplication\NLogTestApplication\obj\Debug\netcoreapp2.0\NLogTestApplication.pdb
